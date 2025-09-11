@@ -1,11 +1,11 @@
-# <img width="1464" height="95" alt="Captura de pantalla 2025-08-31 202843" src="https://github.com/user-attachments/assets/2d5358b7-b66d-48b8-a63a-f7b1db009b97" />
+# <img width="1464" height="95" alt="Titulo" src="readme-img/titulo.png" />
 
 Este repositorio contiene la solución a la Tarea 2 de la asignatura Pruebas de Software II. En esta entrega se desarrollaron dos ejercicios en Java, aplicando análisis de problemas, estructuras de control y buenas prácticas en la programación.
 
 ---
 
 <a name="indice"></a>
-## <img width="126" height="72" alt="Captura de pantalla 2025-08-31 202951" src="https://github.com/user-attachments/assets/0e519ce6-af0a-4b52-9f5d-ef77c2fe644c" />
+## <img width="126" height="72" alt="Indice" src="readme-img/indice.png" />
 
 1. [Ejercicio 1: Torre de vasos](#ejercicio1-torre-de-vasos)
 2. [Ejercicio 2: Cajas de galletas](#ejercicio2-cajas-de-galletas)
@@ -17,7 +17,7 @@ Este repositorio contiene la solución a la Tarea 2 de la asignatura Pruebas de 
 ---
 
 <a name="ejercicio1-torre-de-vasos"></a>
-## <img width="443" height="82" alt="Captura de pantalla 2025-08-31 203021" src="https://github.com/user-attachments/assets/f96834ed-c7f1-46cb-88e3-3ba7a01ec2a6" />
+## <img width="443" height="82" alt="Ejercicio1" src="readme-img/torre.png" />
 
 Imagina que en una fiesta se quiere apilar vasos desechables formando una torre. Cada nivel de la torre tiene un vaso menos que el nivel inferior.
 
@@ -41,7 +41,7 @@ Ejemplo con 4 niveles:
 Esto equivale a sumar los primeros 'n' números enteros (serie aritmética):
 
 <div align="center">
-  <img width="288" height="60" alt="Captura de pantalla 2025-08-31 201001" src="https://github.com/user-attachments/assets/351467de-4c17-4e1b-bba0-5a1c0eb504d4" />
+  <img width="288" height="60" alt="Formula" src="readme-img/formula.png" />
 </div>
 
 ## 2. Análisis
@@ -63,13 +63,13 @@ fin funcion
 ## 4. Diagrama de flujo
 
 <div align="center">
-  <img width="381" height="641" alt="vasos drawio" src="https://github.com/user-attachments/assets/612b4377-8f98-46c1-b497-da945ea5b1d2" />
+  <img width="381" height="641" alt="Diagrama1" src="readme-img/diagrama1.png" />
 </div>
 
 Se implementó un método en Java llamado `calcularTotalVasos(int niveles)`, el cual devuelve la cantidad total de vasos necesarios para construir la torre.
 
 <div align="center">
-  <img width="536" height="469" alt="Imagen1" src="https://github.com/user-attachments/assets/47049d92-4f5c-4ffa-969e-181d5c67e824" />
+  <img width="536" height="469" alt="Imagen1" src="readme-img/Imagen1.png" />
 </div>
 
 [⬆️ Volver al índice](#indice)
@@ -77,7 +77,7 @@ Se implementó un método en Java llamado `calcularTotalVasos(int niveles)`, el 
 ---
 
 <a name="ejercicio2-cajas-de-galletas"></a>
-## <img width="445" height="83" alt="Captura de pantalla 2025-08-31 203059" src="https://github.com/user-attachments/assets/88afba23-9324-433d-91a8-24a10c741de5" />
+## <img width="445" height="83" alt="Ejercicio2" src="readme-img/galletas.png" />
 
 Un negocio de repostería empaca galletas en cajas pequeñas, siguiendo la regla de que cada caja contiene la mitad de galletas que la anterior. El proceso se repite hasta que la cantidad sea menor a 1.
 
@@ -120,13 +120,13 @@ fin funcion
 ## 4. Diagrama de flujo
 
 <div align="center">
-  <img width="441" height="731" alt="galletas drawio" src="https://github.com/user-attachments/assets/968f9c59-f14b-47d4-9f79-1605d5b8867b" />
+  <img width="441" height="731" alt="Diagrama2" src="readme-img/diagrama2.png" />
 </div>
 
 Se implementó un método en Java llamado `calcularTotalGalletas(int galletas)`, que devuelve el total de galletas necesarias considerando todas las cajas.
 
 <div align="center">
-  <img width="536" height="531" alt="Imagen2" src="https://github.com/user-attachments/assets/07a6c667-1e0e-4445-ba2c-46c3f7a1a85e" />
+  <img width="536" height="531" alt="Imagen2" src="readme-img/Imagen2.png" />
 </div>
 
 [⬆️ Volver al índice](#indice)
@@ -134,7 +134,7 @@ Se implementó un método en Java llamado `calcularTotalGalletas(int galletas)`,
 ---
 
 <a name="requisitos"></a>
-## <img width="204" height="59" alt="Captura de pantalla 2025-08-31 203220" src="https://github.com/user-attachments/assets/3ceee55e-369c-47e5-93a9-6f45f8340420" />
+## <img width="204" height="59" alt="Requisitos" src="readme-img/requisitos.png" />
 
 Antes de ejecutar los programas asegúrate de tener instalado:
 
@@ -146,7 +146,7 @@ Antes de ejecutar los programas asegúrate de tener instalado:
 ---
 
 <a name="como-ejecutar"></a>
-## <img width="280" height="55" alt="Captura de pantalla 2025-08-31 203258" src="https://github.com/user-attachments/assets/b46f593a-b8d7-4245-9bc4-02b3348bb0c9" />
+## <img width="280" height="55" alt="Ejecutar" src="readme-img/ejecutar.png" />
 
 ### 1. Clonar este repositorio:
 ```bash
@@ -177,7 +177,7 @@ Ingresar los datos solicitados por consola y revisar el resultado.
 ---
 
 <a name="conclusion"></a>
-## <img width="244" height="56" alt="Captura de pantalla 2025-08-31 203340" src="https://github.com/user-attachments/assets/827bc14b-d4b7-49ed-9ddd-be9da287b98a" />
+## <img width="244" height="56" alt="Conclusiones" src="readme-img/conclusiones.png" />
 
 Con el desarrollo de estos ejercicios se reforzaron conceptos fundamentales de programación en Java, como el uso de ciclos, condicionales y fórmulas matemáticas para resolver problemas prácticos. Además, se practicó el proceso de análisis y planteamiento de soluciones antes de llegar a la codificación.
 
@@ -188,12 +188,12 @@ El proyecto demuestra la importancia de aplicar buenas prácticas en el desarrol
 ---
 
 <a name="desarrolladora"></a>
-## <img width="282" height="53" alt="image" src="https://github.com/user-attachments/assets/ff8fa715-c8df-4013-ad61-111f67b1565b" />
+## <img width="282" height="53" alt="iDesarrolladora" src="readme-img/desarrolladora.png" />
 
 Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
 
 <div align="center">
-  <img width="124" height="236" alt="Joh sin fondo" src="https://github.com/user-attachments/assets/85e6c8ef-2563-4c31-899f-c32f3e81c35b" />
+  <img width="124" height="236" alt="Johana" src="readme-img/johana.png" />
   <br>
   <strong>Johana Jazmín Saavedra</strong>
 </div>
